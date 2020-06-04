@@ -36,7 +36,7 @@ Create user with read/write access:
 
 ### Get the source
 
-    git clone https://github.com/suprnurd/ciquidus explorer
+    git clone https://github.com/SerafV1/ciquidus explorer
 
 ### Install node modules
 
